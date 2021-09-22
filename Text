@@ -1,0 +1,25 @@
+Heyy guyss
+Welcome back ♥
+Hôm nay mình sẽ chia sẻ đến các bạn cách sử dụng, áp dụng các thuộc tính trong CSS
+Như Flexbox, hover, position để có thể tạo, design phần header ở đầu các trang web như ở phần demo
+Các bạn có thể ứng dụng trong bất cứ dự án, project nào nhé 
+Do mình clone lại web của mailchimp.com 
+Sẽ có thể chỉ giống khoảng 80%, nhưng chủ yếu mình chia sẻ cách ứng dụng các kĩ thuật nêu trên để 
+giúp các bạn có thể áp dụng vào trong thực tế hiệu quả hơn nhé ♥
+
+Okay bước đầu tiên để code được phần Header xịn xịn như vậy thì ta sẽ import 2 thứ thường xuyên dùng nhất :D 
+1 là Font Awesome CDN, 2 là Google Fonts ( mình sử dụng Poppins vì nó khá ổn áp keke )
+Các bạn bật VS lên code cùng mình nhé ♥
+Okay import 2 phần trên đã xong :D 
+Bắt đầu code thuiii 
+
+Okay vậy là chúng ta đã hoàn thành được phần Header như ý muốn ♥
+Video này giúp các bạn có thể hiểu được ứng dụng của Flexbox ( để căn chỉnh phần tử trong thẻ )
+Và sử dụng thuộc tính Position: fixed
+Thuộc tính này thường được áp dụng ở rât nhiều trang web hiện nay, do khi người dùng scroll trang thì vẫn có thể nhìn thấy
+phần Header để tiện cho việc thao tác 
+Rất cảm ơn các bạn đã xem hết Video
+Nếu các bạn thấy video hay, đừng quên để lại cho mình 1 like&subcribes để mình có thêm động lực nhé 
+Ấn vào cái chuông bên cạnh để nhận được thông báo khi mình ra video nhennn ♥
+Cảm ơn mọi người rất nhiều 
+Many thanks ♥
